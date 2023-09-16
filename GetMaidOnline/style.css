@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(to bottom, white, #00BFFF);
+    color: white;
+}
+
+.card{
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+#wagecalc{
+    margin-top: 10px;
+    margin-left: 50px;
+    float: left;
+}
+
+
+
+
+.mycalendar{
+    float: left;
+    align-content: center;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+
+.logoimg{
+        border: 5px solid;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -40%);
+        padding: 10px;
+}
+
+.teamdetails{
+    margin-top: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+
+}
